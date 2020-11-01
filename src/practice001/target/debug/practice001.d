@@ -1,1 +1,1 @@
-D:\Rust\rust_dev\rustlang-practice\src\practice001\target\debug\practice001.exe: D:\Rust\rust_dev\rustlang-practice\src\practice001\src\main.rs D:\Rust\rust_dev\rustlang-practice\src\practice001\src\vars.rs
+D:\Rust\rust_dev\rustlang-practice\src\practice001\target\debug\practice001.exe: D:\Rust\rust_dev\rustlang-practice\src\practice001\src\cli.rs D:\Rust\rust_dev\rustlang-practice\src\practice001\src\main.rs

@@ -12,5 +12,9 @@ pub fn run (){
     // define constant
     const ID: i32 = 001;
     println!("ID: {}", ID);
-    
+
+    // assign multiple vars
+    let ( my_name, my_age ) = ("Derick", 41);
+    println!("{} is {}", my_name, my_age);
+
 }
